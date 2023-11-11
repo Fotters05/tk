@@ -1,0 +1,17 @@
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\qweqwe.exe
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\qweqwe.deps.json
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\qweqwe.runtimeconfig.json
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\qweqwe.dll
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\qweqwe.pdb
+C:\Users\Fotters\source\repos\qweqwe\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.csproj.AssemblyReference.cache
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.csproj.CopyComplete
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.dll
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\refint\qweqwe.dll
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.pdb
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\qweqwe.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\qweqwe\obj\Debug\net7.0\ref\qweqwe.dll
